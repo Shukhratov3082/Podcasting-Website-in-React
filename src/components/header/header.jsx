@@ -69,7 +69,7 @@ const Head = styled.div`
             background-position: bottom right;
             background-size: auto;
             background-repeat: no-repeat;
-            margin-right: 300px;
+            margin-right: 335px;
                 h2{
                 font-size: 46px;
                 font-family: 'Caveat', cursive;

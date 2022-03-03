@@ -69,7 +69,7 @@ height: 100%;
     .center-image{
         width: 175px;
         height: 90px;
-        margin: auto  158px auto 290px;
+        margin: auto  158px auto 235px;
         background-image: url(${hedDumaloq});
         background-position: right;
         background-size: contain;
